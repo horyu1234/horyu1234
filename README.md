@@ -2,6 +2,4 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=horyu1234.horyu1234)  
 
-[SSH Key](https://keys.horyu.me/main-pc)  
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=horyu1234&count_private=true&show_icons=true)
